@@ -1,0 +1,7 @@
+C:\Users\mateo\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\net6.0\ToDoListAPI.csproj.AssemblyReference.cache
+C:\Users\mateo\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\net6.0\ToDoListAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\net6.0\ToDoListAPI.AssemblyInfoInputs.cache
+C:\Users\mateo\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\net6.0\ToDoListAPI.AssemblyInfo.cs
+C:\Users\mateo\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\net6.0\ToDoListAPI.csproj.CoreCompileInputs.cache
+C:\Users\mateo\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\net6.0\ToDoListAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mateo\source\repos\ToDoListAPI\ToDoListAPI\obj\Debug\net6.0\ToDoListAPI.MvcApplicationPartsAssemblyInfo.cache
